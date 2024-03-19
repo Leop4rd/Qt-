@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resource/RIT.jpg</file>
+        <file>resource/bg/bg1.png</file>
+        <file>resource/bg/bg2.png</file>
+        <file>resource/bg/bg3.png</file>
+        <file>resource/logo.png</file>
+        <file>resource/chess/black1.png</file>
+        <file>resource/chess/white1.png</file>
+        <file>resource/chess/black2.png</file>
+        <file>resource/chess/black3.png</file>
+        <file>resource/chess/black4.png</file>
+        <file>resource/chess/black5.png</file>
+        <file>resource/chess/black6.png</file>
+        <file>resource/chess/white2.png</file>
+        <file>resource/chess/white3.png</file>
+        <file>resource/chess/white4.png</file>
+        <file>resource/chess/white5.png</file>
+        <file>resource/chess/white6.png</file>
+        <file>resource/info/about.png</file>
+        <file>resource/info/cry.png</file>
+        <file>resource/info/down.png</file>
+        <file>resource/info/forbid.png</file>
+        <file>resource/info/happy.png</file>
+        <file>resource/info/over.png</file>
+        <file>resource/info/sad.png</file>
+        <file>resource/info/wait.gif</file>
+        <file>resource/info/warn.png</file>
+        <file>resource/chess/cursor.png</file>
+        <file>resource/bgm/volume-mute.png</file>
+        <file>resource/bgm/volume-notice.png</file>
+        <file>resource/bg/menuBG.jpeg</file>
+        <file>resource/gomoku.ico</file>
+    </qresource>
+    <qresource prefix="/voice">
+        <file>resource/music/dropPiese.wav</file>
+        <file>resource/music/WinSound.wav</file>
+        <file>resource/music/bgmHWS.mp3</file>
+        <file>resource/music/test.MP3</file>
+        <file>resource/music/test2.MP3</file>
+        <file>resource/music/ZDZY_Jay.mp3</file>
+    </qresource>
+</RCC>
